@@ -19,7 +19,7 @@
     <br>
     <br>
     <p>Thank you - ADITYA</a>.</p>
-    <p>Today is WEDNESDAY  </a></p>
+    <p>Today is THURSDAY  </a></p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
