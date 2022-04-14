@@ -19,7 +19,7 @@
     <br>
     <br>
     <p>Thank you - ADITYA</a>.</p>
-    <p>Today is THURSDAY  </a></p>
+    <p>Today is THURSDAY, 14th April 2022  </a></p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
 
